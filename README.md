@@ -1,3 +1,3 @@
 # Public Perception of AI NY Times Analysis
 
-An analysis of the public perception of AI dataset. 
+An analysis of the public perception of AI dataset. The data is provided [here](https://www.microsoft.com/en-us/download/confirmation.aspx?id=105293). The dataset is a collection of sentiment ratings on the public perception of AI. The data was collected from NY Times articles, and the sentiment ratings were collected from Amazon Mechanical Turk. The data was collected in 2016. The paper that describes the data collection process, "Long-Term Trends in the Public Perception of Artificial Intelligence", can be found [here](https://arxiv.org/abs/1609.04904).
